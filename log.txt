@@ -1,0 +1,11 @@
+commit 2f21400b3c4b2794db28acafa16fb69534ef8b48 (HEAD -> master)
+Author: marcinsuchyna <marcinsuchyna@o2.pl>
+Date:   Sun May 31 11:30:59 2020 +0200
+
+    ignorowanie .doc
+
+commit a4021fbdc7e5690912bf8ee71cfe0bdd31bfb373 (origin/master)
+Author: marcinsuchyna <marcinsuchyna@o2.pl>
+Date:   Sun May 31 11:06:05 2020 +0200
+
+    rzeka
